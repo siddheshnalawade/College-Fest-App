@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1082562310815",
+    "firebase_url": "https://collegefest-4f8be.firebaseio.com",
+    "project_id": "collegefest-4f8be",
+    "storage_bucket": "collegefest-4f8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082562310815:android:c2c5dca7ab208e7a95a8aa",
+        "android_client_info": {
+          "package_name": "com.collegefest.collegefest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082562310815-ag6j68arbpgdq530n6clhfepbhmuib0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR4_-IrdUXcorE-RQRfuhhd6KXaJaTbqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082562310815-ag6j68arbpgdq530n6clhfepbhmuib0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
