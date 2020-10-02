@@ -1,4 +1,4 @@
-# collegefest
+## App It Up College Fest App
 
 A new Flutter project.
 
